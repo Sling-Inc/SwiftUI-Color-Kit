@@ -17,7 +17,7 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
         .package(
             url: "https://github.com/Sling-Inc/Sliders-SwiftUI.git",
-            .revisionItem("99ba86b354f5c7ba487075d486d6ff715f76fd26")
+            .revisionItem("f6cc9b14d168712667c35f4fee130f9f62bf7510")
         ),
         .package(url: "https://github.com/kieranb662/SwiftUI-Shapes.git", from: "1.0.4"),
         .package(url: "https://github.com/kieranb662/CGExtender.git", from: "1.0.3")
